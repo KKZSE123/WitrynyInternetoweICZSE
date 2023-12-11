@@ -1,0 +1,58 @@
+zad1
+https://www.kurshtml.edu.pl/html/elementy_zdeprecjonowane,html.html
+zad2
+W języku HTML5 usunięto znaczniki takie jak:
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<basefront>, <big>, <center>, <strike>, <frame>, <frameset>, <tt>
+Zastąpiono też nagłówek / deklarację języka:
+ 
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+na skróconą w formie
+ 
+<meta charset="UTF-8" />
+W HTML5 wprowadzono także nowe elementy takie jak:
+ 
+<article>, <header>, <details>, <figure>, <nav>, <section>, <mark>, <time>, <audio>,<video>, <source>, <bdo>, <rp>
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+zad3
+html 4.0-https://www.w3.org/TR/html4
+html 4.01-https://www.w3.org/TR/html4
+html 5-https://pl.wikipedia.org/wiki/HTML5
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+zad4
+Witryna internetowa:Strona informacyjna To witryna zaprojektowana głównie do udostępniania informacji na temat firmy, organizacji, osoby lub konkretnego tematu. Ma na celu dostarczenie użytkownikom istotnych danych i faktów. https://home.pl/strony/?gclsrc=3p.ds&msclkid=7f54ea57b3251b3ad5148f1eae133e6b
+Portal internetowy to serwis, który umożliwia użytkownikom dostęp do informacji, usług i treści online. Portale oferują różne funkcje, takie jak wyszukiwanie, konta poczty elektronicznej i grupy dyskusyjne. https://wykop.pl/
+Serwis internetowy dający możliwość kupowania i sprzedawania produktów przez Internet, jedna z form handlu elektronicznego. https://allegro.pl/?utm_medium=afiliacja&utm_source=ctr_b&utm_campaign=062f9989-67d7-4385-8f4b-4f8594d200f3
+Blog tekstowy to najpopularniejszy rodzaj bloga, w którym najczęściej wykorzystywanym środkiem przekazu jest tekst12. Blogi tekstowe mają pewne cechy typowe dla tradycyjnych dzienników, takie jak: sposób tworzenia narracji, doraźność i referencjalność poruszanych zagadnień, elementy metatekstowe oraz swobodna forma wypowiedzi2. Blog to pewien rodzaj strony internetowej składający się z samodzielnych, specyficznych, różnorodnych, odrębnych, oraz uporządkowanych chronologicznie wpisów. https://www.humansofnewyork.com/ 
+Wideoblog to rodzaj bloga internetowego, którego zasadniczą treść stanowią pliki filmowe. https://www.bing.com/ck/a?!&&p=541c6d7fddf3c784JmltdHM9MTY5OTMxNTIwMCZpZ3VpZD0wOTNlY2IwZi02MTI3LTYzYTctMmYyZC1kOGJjNjAwNjYyNzImaW5zaWQ9NTU1MA&ptn=3&hsh=3&fclid=093ecb0f-6127-63a7-2f2d-d8bc60066272&u=a1L3ZpZGVvcy9yaXZlcnZpZXcvcmVsYXRlZHZpZGVvP3E9V2lkZW9ibG9nK2dvdG93YW5pZSZtaWQ9RjgwRjQyNTA3REE1MEI1MzE3MEJGODBGNDI1MDdEQTUwQjUzMTcwQiZGT1JNPVZJUkU&ntb=1
+-----------------------------------------------------------------------------------------------------------------------------------------------
+zad5
+Moim zdaniem to będzie wortal internetowy ponieważ zapewnia dostęp w tym przypadku do treści dydaktycznych czyli jedna tematyka
+----------------------------------------------------------------------------
+zad6
+	*
+	*
+*
+*
+	*
+----------------------------------------------------
+zad7
+https://zselkielce-my.sharepoint.com/:x:/g/personal/krystian23c27_e-zsel_kielce_eu/Ee0E--HW4l9NhfYa_lZcVfAB2vXkJ42Vtsz-QbhdTbsvhw?e=v2192k
+-----------------------------------------------------------------------------------------------------------------------
+zad8
+A
+---------------
+zad9
+D
+--------------------------------------
+zad10
+C
+------------------------------
+zad11
+C
+-----------------------------------
+zad12
+A
+--------------------------
+zad13
+https://zselkielce-my.sharepoint.com/:x:/g/personal/krystian23c27_e-zsel_kielce_eu/EZycIl8bed9Ohr_2bd3QYsABSgEt5OartKFpsFp2OO-U8Q?e=4ud1ro
